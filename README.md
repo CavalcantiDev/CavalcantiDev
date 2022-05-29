@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/CavalcantiDev">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=CavalcantiDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img align="right" alt="cava-pic" height="270" width="490" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/980265262160945205/980265324010147880/logo.png">
+    <img align="right" alt="cava-pic" height="100" width="100" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/980265262160945205/980265324010147880/logo.png">
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="CAVA-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
